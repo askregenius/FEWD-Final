@@ -1,0 +1,8 @@
+# Final Project
+
+##Objective:
+* Redesign clients website
+*integrate current functionality to update experience and enable client to:
+1. Receive requests for quotes from potential buyers
+2. Share images of custom builds
+3. Create blog entries to establish client as SME in his field
