@@ -1,0 +1,105 @@
+
+* {
+	font-family: "Open-sans", Helvetica, sans-serif;
+}
+
+body {
+	max-width: 50%;
+	margin: auto;
+}
+
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+
+/* formating profile images */
+.profile {
+	float: right;
+	height: 25%;
+	width: 25%;
+	padding: 0px 10px 0px 10px;
+}
+
+/* formating portfolio images */
+.portfolio {
+	height: 25%;
+	width: 25%;
+	padding: 0px 10px 0px 10px;
+}
+
+h1 {
+	font-size: 24px;
+	color: #777777;
+}
+
+h3 {
+	color: #777777;
+}
+
+/* default body copy */
+p {
+	
+	font-size: 14px;
+	color: #777777;
+}
+
+/* right aligning text */
+.right{
+	text-align: right;
+}
+
+/* centering any text */
+.center {
+	text-align: center;
+}
+
+/* removing underline from list links */
+li a {
+	text-decoration: none;
+}
+
+/* formating job titles */
+.job {
+	text-decoration-style: underline;
+}
+
+/* format education list items*/
+.edu {
+	display: block;
+}
+
+/* menu background color */
+.color {
+	background-color: #8daa4b;
+	line-height: 75px;
+}
+
+/* unvisited link */
+.exp {
+    width: auto;
+    height: 300px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+
+/* unvisited link */
+a:link {
+    color: #000000;
+}
+
+/* visited link */
+a:visited {
+    color: #333333;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #000000;
+}
