@@ -1,6 +1,6 @@
 # Final Project
 
-##Objective:
+## Objective:
 * Redesign clients website
 *integrate current functionality to update experience and enable client to:
 1. Receive requests for quotes from potential buyers
